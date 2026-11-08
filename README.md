@@ -1,6 +1,6 @@
 # HelloWorld
 
-Autor: TuNombre TuApellido
+Autor: Oliver Brown
 
 Primera aplicación con Expo y TypeScript usando componentes, props y estado (useState).
 
